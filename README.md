@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Dobromir, and I really enjoy to Design and Develop new projects, but also love to improve/optimize already existing projects as well🌱<br />
+I consider myself Full Stack developer, but reasently my attention was occupied mostly with Vue.js and working on UI/UX part.<br />
+Feel free to check my [portfolio page](https://gsconsult.io/about).
+
+List of ways you can follow me:
+- 👯 [LinkedIn](https://www.linkedin.com/in/dobromir-kovachev-a1075546/)
+
+
+### Metrics
+___
+![Metrics](https://metrics.lecoq.io/darkshloser?template=terminal&base.indepth=false&base.hireable=false&config.timezone=Europe%2FSofia)
+
 <!--
 **darkshloser/darkshloser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
