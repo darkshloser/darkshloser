@@ -10,9 +10,11 @@ List of ways you can follow me:
 
 ### Metrics
 ___
-![Metrics](https://metrics.lecoq.io/darkshloser?template=terminal&base.indepth=false&base.hireable=false&config.timezone=Europe%2FSofia)
+
+![Metrics](https://metrics.lecoq.io/darkshloser?template=classic&isocalendar=1&gists=1&stackoverflow=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&stackoverflow.user=12200328&stackoverflow.limit=3&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Europe%2FSofia)
 
 <!--
+![Metrics](https://metrics.lecoq.io/darkshloser?template=terminal&base.indepth=false&base.hireable=false&config.timezone=Europe%2FSofia)
 **darkshloser/darkshloser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
