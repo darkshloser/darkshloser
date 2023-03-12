@@ -6,12 +6,12 @@ Feel free to check my [portfolio page](https://gsconsult.io/about).
 
 List of ways you can follow me:
 - 👯 [LinkedIn](https://www.linkedin.com/in/dobromir-kovachev-a1075546/)
+- ⚡ I allways try to level up my skills and learn new technologies
+- 💬 Ask me about everything related to VueJS, Blockchain, Backend, Frontend, Dockerization and bash scripting. 
+- 📫 How to reach me: dobromir@gsconsult.io; dobromir.mail@gmail.com
 
 
-### Metrics
-___
 
-![Metrics](https://metrics.lecoq.io/darkshloser?template=classic&isocalendar=1&gists=1&stackoverflow=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&stackoverflow.user=12200328&stackoverflow.limit=3&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Europe%2FSofia)
 
 <!--
 ![Metrics](https://metrics.lecoq.io/darkshloser?template=terminal&base.indepth=false&base.hireable=false&config.timezone=Europe%2FSofia)
